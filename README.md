@@ -1,2 +1,2 @@
 # Python-Game
-A little game made with pygame
+A little game made with pygame.
